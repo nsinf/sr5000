@@ -1,0 +1,8 @@
+{
+    "label": "🔬Lab:SR-5000",
+    "position": 99,
+    "link": {
+        "type": "generated-index",
+        "description": "硬件測試"
+    }
+}
