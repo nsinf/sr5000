@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksr_5000=self.webpackChunksr_5000||[]).push([[252],{1857:e=>{e.exports=JSON.parse('[{"label":"new","permalink":"/sr5000/blog/tags/new","count":1}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksr_5000=self.webpackChunksr_5000||[]).push([[356],{2117:e=>{e.exports=JSON.parse('{"permalink":"/sr5000/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

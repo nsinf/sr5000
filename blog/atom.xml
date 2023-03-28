@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/sr5000/blog</id>
+    <title>SR5000 Blog</title>
+    <updated>2023-03-17T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/sr5000/blog"/>
+    <subtitle>SR5000 Blog</subtitle>
+    <icon>https://github.com/sr5000/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://github.com/sr5000/blog/Welcome</id>
+        <link href="https://github.com/sr5000/blog/Welcome"/>
+        <updated>2023-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome]]></summary>
+        <content type="html"><![CDATA[<p>Welcome</p>]]></content>
+        <author>
+            <name>Morris</name>
+            <uri>https://morrislaw715.github.io/sr5000/</uri>
+        </author>
+        <category label="new" term="new"/>
+    </entry>
+</feed>
